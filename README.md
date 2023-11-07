@@ -1,4 +1,4 @@
-### Hi there 👋
+* 본 자료는 2023년도 국가과학기술인력개발원의 지원을 받아 수행된 성과물임
 
 <!--
 **tkeo12/tkeo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
